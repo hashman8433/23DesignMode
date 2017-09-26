@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class FlyWeightFactory {
 	
-	private Map flyWeigthMap = new HashMap<String,FlyWeight>();
+	private Map<String,FlyWeight> flyWeigthMap = new HashMap<String,FlyWeight>();
 	
 	public FlyWeight getFlyWeight(String key){
 		FlyWeight flyWeight = (FlyWeight)flyWeigthMap.get(key);
