@@ -1,6 +1,6 @@
-package Factory.type2;
+package factory.abstractfactory;
 
-import Factory.Simple;
+import factory.Simple;
 
 public abstract class Factory {
 	
