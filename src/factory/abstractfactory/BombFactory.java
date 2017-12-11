@@ -1,7 +1,7 @@
 package factory.abstractfactory;
 
-import factory.Simple;
-import factory.SimpleB;
+import createmode.factory.Simple;
+import createmode.factory.SimpleB;
 
 public class BombFactory extends Factory {
 

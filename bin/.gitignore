@@ -1,4 +1,7 @@
-/Factory/
 /adapter/
-/flyweightfactory/
+/bridge/
+/builder/
 /factory/
+/flyweightfactory/
+/createmode/
+/structuremode/

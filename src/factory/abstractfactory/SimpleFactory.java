@@ -1,7 +1,7 @@
 package factory.abstractfactory;
 
-import factory.Simple;
-import factory.SimpleA;
+import createmode.factory.Simple;
+import createmode.factory.SimpleA;
 
 public class SimpleFactory extends Factory {
 

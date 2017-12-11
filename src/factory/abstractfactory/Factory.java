@@ -1,6 +1,6 @@
 package factory.abstractfactory;
 
-import factory.Simple;
+import createmode.factory.Simple;
 
 public abstract class Factory {
 	
