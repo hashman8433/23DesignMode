@@ -2,7 +2,7 @@ package behavior.interpreter;
 
 /**
  * 12387789
- * 111124561
+ * 1111
  * @author root1
  */
 public interface AbstractException {
