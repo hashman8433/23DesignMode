@@ -1,8 +1,13 @@
 package behavior.interpreter;
 
 /**
- * 12387789
+<<<<<<< HEAD
+ * 12387
  * 111124561
+=======
+ * 12387789
+ * 4561
+>>>>>>> 7a45c348cf792b3391bf82c6bc34e04d8dc6c43f
  * @author root1
  */
 public interface AbstractException {
